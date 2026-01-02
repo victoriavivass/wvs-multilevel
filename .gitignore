@@ -1,0 +1,14 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/raw/
+
+# Logs
+*.log
